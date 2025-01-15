@@ -4,7 +4,7 @@
 
 **Corex** is a **Organizer App and Game Launcher**.
 <br>
-The launcher is written in C# by one brazilian Ciencse Computer Student
+The launcher is written in C# by a brazilian Science Computer Student
 
 ## Features
 
