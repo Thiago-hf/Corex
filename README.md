@@ -1,5 +1,10 @@
 # Corex
 
+<div>
+        ![Corex](./docs.png)
+</div>
+
+
 ## About
 
 **Corex** is a **Organizer App and Game Launcher**.
