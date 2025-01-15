@@ -1,7 +1,7 @@
 # Corex
 
 <div>
-![Corex](/docs.png)
+![Corex](docs.png)
 </div>
 
 
