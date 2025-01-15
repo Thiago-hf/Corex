@@ -21,10 +21,10 @@ Follow the steps below to install:
 
 1. Download the latest version of Corex from the Releases page.
         Download Setup if you want to install Hydra on Windows.
-	      Linux Coming soon
-2. Extract the Corex Folder by Setup
-3. Run the downloaded file.
-4. Enjoy Corex!
+   	<br>Linux Coming soon
+3. Extract the Corex Folder by Setup
+4. Run the downloaded file.
+5. Enjoy Corex!
 
 ## <a name="contributing"> Contributing
 
@@ -45,6 +45,7 @@ We concentrate our discussions on our Discord channel (Coming soon).
 ### Ways you can contribute
 
 Translation: We want Corex to be available to as many people as possible. Feel free to help translate to new languages or update and improve the ones that are already available on Corex.
+<br>
 Code: We need a more modern and beautiful UI/UX. If you want to contribute, join our discord
 
 ## License
